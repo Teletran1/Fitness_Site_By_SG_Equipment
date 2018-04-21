@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+      background-color:#ffffff;
+}
+</style>
+</head>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<style>
+.btn-group button {
+    background-color: #ffffff; /* White background */
+    border: 1px ff0000; /* Red border */
+    color: #ff0000; /* Red text */
+    padding: 5px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+}
+/* Add a background color on hover */
+.btn-group button:hover {
+    background-color: #e6e6e6;
+}
+</style>
+<body>
+
+<div class="btn-group" style="width:100%">
+  <button onclick="window.location='https://teletran1.github.io/Fitness_Site_By_SG/'; return false;">HOME</button>
+  <button onclick="window.location='https://teletran1.github.io//'; return false;">HOME</button>
+  <button style="width:25%">CLASSES</button>
+  <button style="width:25%">PRICING</button>
+  <button style="width:25%">1 ON 1</button>
+  <button style="width:25%">CONTACT</button>
+  <button style="width:25%">TESTIMONIALS</button>
+</div>
+
+</body>
+</html>  
+
+
+<style>
+h.small {
+    line-height: 0.0;
+}
+</style>
+
+<h class="small">
+<h1 style=font-size:600%
+<h1><font face="georgia" color="red">Cora's Core</h1>
+<h1 style=font-size:200%
+<h1><font face="georgia" color="red">Balance Redefined.</h1>
+</h>
+
+<IMG SRC="http://bpic.588ku.com/element_origin_min_pic/16/07/05/15577b62ac77128.jpg" ALT="some text" WIDTH=100 HEIGHT=100>
+<br>
+<br>
+<br>
+<span>
+<p style=font-size:125%
+<p><font face="goergia" color="black">
+    <h2>KICK BOXING ROOM</h2>
+    <img src="http://www.kidderminsterkravmaga.co.uk/resources/FITNESS%20KICKING.png" width="800" height="800"><p style=font-size:130%
+<p><font face="goergia" color="black">Balance. Manipulating both your arms and legs in combined coordinated strikes is the ultimate fitness test. You will target your thighs, arms, abs, and everything in between during your session. Protective pads, head gear and mouth gaurds are provided on site. Floor mats are regulation grade for effective protection during contact. You can even add ankle weights for an additional edge.</p>
+<br>
+<br>
+<br>
+    <h2>BATTLE ROPES</h2>
+    <img src="https://ak3.picdn.net/shutterstock/videos/34912243/thumb/9.jpg?i10c=img.resize(height:160)" width="800" height="800"><P style=font-size:130%
+<p><font face="goergia" color="black">Some of the world's most elite athletes use battle ropes to isolate and tone those hard to find muscles. Specifically in the upper shoulders and lower arms. The ropes are available in various diameters to allow you to start off with a lighter number and advance as you become more skilled. You will see results in a matter of just a few sessions. Using this system with a strong and regular leg work out is best for an over all balanced look over time.</p>
+<br>
+<br>
+<br>
+    <h2>HEAVY RESISTANCE SYSTEMS</h2>    
+    <img src="https://img.aws.livestrongcdn.com/ls-article-image-673/cme/photography.prod.demandstudios.com/9b990b6d-89c9-4748-9013-1f8620249dbd.jpeg" width="800" height="800"><P style=font-size:130% <p><font face="goergia" color="black">To put on the mass that your work out demands, be you a professional athlete or a weekend worrior, a few things are crucial. The right calorie intake. Low cardio. And the right mass producing equipment. Our machines are state of the art and so are our team of dedicated personal trainers.</p>
+<br>
+<br>
+<br>
+    <h2>THE BELL TOWER</h2>
+    <img src="http://www.tabatatimes.com/wp-content/uploads/2013/08/Rope-Climb.jpg" width="800" height="800"><P style=font-size:130% <p><font face="goergia" color="black">This little guy has been a main stay in athletics from your younger years in grade school to the military academies of today. The bell tower reinforces determination and grit. Some make it to the top and some do not. Try and try again. Your Upper shoulder and chest muscles will thank you later. Whether you prefer the individual timed sprint to the top or the team relays, this is a great overall exercise tool for all skill levels</p>
+<br>
+<br>
+<br>
+    <h2>FREE WEIGHTS</h2>
+    <img src="https://ak2.picdn.net/shutterstock/videos/27010432/thumb/1.jpg?i10c=img.resize(height:165)" width="800" height="800"><P style=font-size:130% <p><font face="goergia" color="black">Muscle isolation. Times ten. Free weights allow you to pin point muscles that most machines or fixed weight stations tend to over look during a work out. Those stuborn muscles behind the upper amrs. Or mayne you can try repping sit ups with a little something extra weighing down on the chest for an added burn. Squats anyone? What ever the tool, dumbells or medicine balls, you will get the results that you desire if you put in th effort. Get to it.</p>
+<br>
+<br>
+<br>
+    <h2>OLYMPIC RINGS</h2>
+    <img src="https://ak8.picdn.net/shutterstock/videos/31234708/thumb/10.jpg" width="800" height="800"><P style=font-size:130% <p><font face="goergia" color="black">One of the most difficult task in the Olympic games is the rings. And you can try your hand at it in our facility without waiting four years in between. You will feel your upper arms getting ripped. Your abs will become stronger as you maneuver your lower body from left to right, front to back. After a few sessions you will feel as lean as possible while gainging the cardiovascular tunning that your body deserves. Step up and go for it.</p>
+    </style>
+    </p>
+</span>
+<br>
+<br>
+<br>
+<span>
+    <img src="http://encompass-arete.com/wp-content/uploads/2013/12/nasm-logo-150x150.gif"></a>
+    </span>
+    <img src="http://media.marketwire.com/attachments/201607/47314_AFAA_Logo_PMS2945_PMS298.jpg"></a>
+    </span>
+    <img src="http://www.ea.training/wp-content/uploads/2018/01/ISSA_logo.jpg"></a>
+    </span>
+    <img src="https://www.puzzlefit.com/uploads/5/7/0/2/5702825/cert-color-small_1_orig.gif"></a>
+</span>
+
+</body>
+</html>
